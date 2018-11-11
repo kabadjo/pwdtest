@@ -1,2 +1,2 @@
-# pwdtest
+# Pwd
 # Book to learn scripting...
